@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Charanpreet Singh</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Charanpreet Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>cx510@proton.me (Charanpreet Singh)</managingEditor>
+    <webMaster>cx510@proton.me (Charanpreet Singh)</webMaster>
+    <copyright>© 2024 Charanpreet Singh</copyright>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV in PDF</title>
+      <link>http://localhost:1313/download/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate><author>cx510@proton.me (Charanpreet Singh)</author>
+      <guid>http://localhost:1313/download/</guid>
+      <description>Here you can download my CV in PDF Format Download as PDF - Link will be added soon
+Note: it will be a plain markdown with no styling applied to it.</description>
+      <content:encoded><![CDATA[<h3 id="here-you-can-download-my-cv-in-pdf-format">Here you can download my CV in PDF Format</h3>
+<blockquote>
+<p><a href="https://www.proton.me">Download as PDF</a> - <code>Link will be added soon</code></p>
+<p>Note: it will be a plain markdown with no styling applied to it.</p>
+</blockquote>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Welcome!</title>
+      <link>http://localhost:1313/welcome/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate><author>cx510@proton.me (Charanpreet Singh)</author>
+      <guid>http://localhost:1313/welcome/</guid>
+      <description>Hi, there! Welcome to my CV page. This was created for showcasing my resume on a static page with no JS for safety purpose. You can disable JS using uBlock and access it without any scripts. Thank you for checking it!
+You can save it by using cmd + s key. For downloading a PDF version of my CV click here.
+I might add blogs later down the line, if i get time!</description>
+      <content:encoded><![CDATA[<h2 id="hi-there">Hi, there!</h2>
+<blockquote>
+<p>Welcome to my CV page. This was created for showcasing my resume on a static page with no JS for safety purpose. You can disable JS using uBlock and access it without any scripts. Thank you for checking it!</p>
+<p>You can save it by using <code>cmd + s</code> key. For downloading a PDF version of my CV <a href="/download">click here</a>.</p>
+<p>I might add blogs later down the line, if i get time!</p>
+</blockquote>
+<p>Credits to <strong>Shaolong Chen</strong> for creating this theme for personal use!</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
