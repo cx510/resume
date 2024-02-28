@@ -4,7 +4,6 @@
 Punjab, India, 160058 <br>
 [cx510@proton.me](cx510@proton.me) <br>
 +91 884 738 7979
----
 
 ## Objective
 
