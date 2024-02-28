@@ -20,10 +20,7 @@ Motivated and detail-oriented Computer Science student graduating with a BTech d
 
 - Saint Soldier International Convent School
 - Graduation Year: 12th (2018) & 10th (2016)
-- PCM Subjects 12th scores
-  - Maths - 88%
-  - Physics - 74%
-  - Chemistry 80%
+- 78% Overall score in PCM Subjects
 
 **Relevant Coursework:**
 
