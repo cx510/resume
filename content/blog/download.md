@@ -10,7 +10,7 @@ tags = [
 
 ### Here you can download my CV in PDF Format
 
-> [Download as PDF](https://www.proton.me) - `Link will be added soon`
+> [Download as PDF](https://github.com/cx510/resume/tree/137da01c1f8cb13e71ba7a513651efd268fe7d52/PDF)
 >
 > Note: it will be a plain markdown with no styling applied to it.
 
